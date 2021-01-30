@@ -1,2 +1,5 @@
 # boa
-Interactive UI based on command and flag library configuration.
+
+An interactive UI based on command and flag library configuration.
+
+_Work In Progress._
